@@ -8,3 +8,4 @@ Learning how to develop a website for a medical clinic, using all the content co
 ![Contact](https://github.com/user-attachments/assets/9453391f-1b51-443b-ae14-e3ead77a92d7)
 
 [LICENSE](/LICENSE)
+
